@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: bilibili_ublock_adguard
+! Title: pika_bilibili_ublock_adguard
 ! Expires: 30 days 
 ! Version: 202601210000
 
@@ -87,4 +87,5 @@ www.bilibili.com##.bpx-player-ending-wrap
 www.bilibili.com##.video-toolbar-right
 www.bilibili.com##.video-card-ad-small
 search.bilibili.com##.p_absolute.flex_col_end.side-buttons
+
 
