@@ -1,0 +1,84 @@
+live.bilibili.com##.gift-panel.p-relative.right-part.section
+live.bilibili.com##.side-bar-cntr
+live.bilibili.com###gift-control-vm-new
+live.bilibili.com##.ts-dot-4.side-bar-popup-cntr
+live.bilibili.com##.shop-popover
+live.bilibili.com##.s-activity-entry.activity-entry.activity-gather-entry
+live.bilibili.com##.ts-dot-4.a-move-in-left.live-sidebar-ctnr
+live.bilibili.com##.t-center.grid-area-ctnr
+live.bilibili.com##.m-auto.area-detail-ctnr > .w-100.over-hidden.p-relative.flip-view
+live.bilibili.com##.fullscreen-gift-panel-gift-button
+live.bilibili.com##.tip-wrap:nth-child(5) .icon
+live.bilibili.com###game-id
+www.bilibili.com##.bili-header__channel
+www.bilibili.com##.reply-notice
+www.bilibili.com##.download-client-trigger.download-entry
+www.bilibili.com##.recommended-swipe-core
+www.bilibili.com##.video-page-special-card-small
+www.bilibili.com##.desktop-download-tip
+www.bilibili.com##.adblock-tips
+www.bilibili.com##.grid-anchor.recommended-swipe
+www.bilibili.com##.new-charge-btn.default-btn
+www.bilibili.com##.act-end.activity-m-v1
+www.bilibili.com##.old-charge-btn.default-btn
+space.bilibili.com##.download-client-trigger.download-entry
+www.bilibili.com##.toolbar-right-ai.video-toolbar-right-item.video-ai-assistant
+www.bilibili.com##div.toolbar-left-item-wrap:nth-of-type(4)
+www.bilibili.com##.fixed-sidenav-storage > div
+search.bilibili.com##li.v-popover-wrap:nth-of-type(10)
+search.bilibili.com##li.v-popover-wrap:nth-of-type(2) > .default-entry
+www.bilibili.com##.part-1.pop-live-small-mode
+www.bilibili.com##.slide-ad-exp
+www.bilibili.com##.act-now.activity-m-v1
+www.bilibili.com##.part-undefined.pop-live-small-mode
+www.bilibili.com##.black.van-watchlater.watch-later-video
+www.bilibili.com##.bpx-player-ctrl-playbackrate
+t.bilibili.com##.right
+www.bilibili.com##.bpx-player-ctrl-wide.bpx-player-ctrl-btn
+www.bilibili.com##.bpx-player-ctrl-pip.bpx-player-ctrl-btn
+www.bilibili.com##.bili-header__banner
+www.bilibili.com##div.action-button
+bilibili.com##div.pointer.f-left.p-relative.h-100.shortcut-item:nth-of-type(3)
+bilibili.com##div.pointer.f-left.p-relative.h-100.shortcut-item:nth-of-type(4)
+bilibili.com##li.right-entry-item:nth-of-type(6)
+bilibili.com##li.v-popover-wrap:nth-of-type(8)
+bilibili.com##li.v-popover-wrap:nth-of-type(6)
+bilibili.com##li.v-popover-wrap:nth-of-type(5) > .default-entry
+bilibili.com##li.v-popover-wrap:nth-of-type(4) > .default-entry
+bilibili.com##li.v-popover-wrap:nth-of-type(7)
+bilibili.com##html > div
+bilibili.com##.vip-wrap
+bilibili.com##.mini-header__title
+www.bilibili.com##.bili-show.bili-guide.bili-guide-all
+www.bilibili.com##.left-entry > li.v-popover-wrap:nth-of-type(2)
+account.bilibili.com##li.nav-link-item:nth-of-type(8)
+account.bilibili.com##li.nav-link-item:nth-of-type(7)
+account.bilibili.com##li.nav-link-item:nth-of-type(6)
+account.bilibili.com##li.nav-link-item:nth-of-type(5)
+account.bilibili.com##li.nav-link-item:nth-of-type(3)
+account.bilibili.com##div.item:nth-of-type(7)
+account.bilibili.com##div.item:nth-of-type(2)
+message.bilibili.com##li.v-popover-wrap:nth-of-type(9)
+search.bilibili.com##li.v-popover-wrap:nth-of-type(9)
+bilibili.com##.right-entry-item--upload.right-entry-item
+bilibili.com##li.left-loc-entry.v-popover-wrap:nth-of-type(9)
+space.bilibili.com##.left-entry > li.v-popover-wrap:nth-of-type(2)
+bilibili.com##.bili-comments-bottom-fixed-wrapper
+bilibili.com##.bpx-player-top-issue
+bilibili.com##.bpx-player-follow
+bilibili.com###notice
+www.bilibili.com##.adcard
+message.bilibili.com##.download-client-trigger.download-entry
+message.bilibili.com##.left-entry > li.v-popover-wrap:nth-of-type(2)
+t.bilibili.com##li.v-popover-wrap:nth-of-type(9)
+www.bilibili.com##.recommended-swipe
+www.bilibili.com##.is-version8.container > div.floor-single-card
+www.bilibili.com##.header-channel
+www.bilibili.com##.palette-feed4.palette-button-outer
+www.bilibili.com##.is-version8.container > div.bili-video-card
+www.bilibili.com##div.feed-card > .bili-feed-card > .enable-no-interest.is-rcmd.bili-video-card > .bili-video-card__wrap > .bili-video-card__image--link > .bili-video-card__image > .bili-video-card__image--wrap > .bili-watch-later--wrap
+t.bilibili.com##li.v-popover-wrap:nth-of-type(10)
+www.bilibili.com##.bpx-player-ending-wrap
+www.bilibili.com##.video-toolbar-right
+www.bilibili.com##.video-card-ad-small
+search.bilibili.com##.p_absolute.flex_col_end.side-buttons
