@@ -1,0 +1,204 @@
+[Adblock Plus 2.0]
+! Title: pika_main
+! Expires: 30 days 
+! Version: 202601210000
+
+! 2023-06-12 https://item.jd.com
+item.jd.com##.gwd-btn.btn-lg
+item.jd.com##.jdm-tbar-tab-qrcode.jdm-toolbar-tab.J-trigger
+item.jd.com##.site-360buy.gwd-align.gwd-row
+search.jd.com##.jdm-toolbar-footer
+order.jd.com##.dorpdown.fore8
+order.jd.com##.ariatheme.fore9
+order.jd.com###ttbar-member
+cart.jd.com##.gwd-jd.gwd-redpack.gwd-jcc.gwd-align.gwd-inline-row
+item.jd.com##.ant-notification-topLeft.ant-notification
+bean.jd.com###ttbar-apps
+www.jd.com###J_mobile
+www.jd.com##.fr > li:nth-of-type(14)
+m.jd.com##.download-noBg.download-pannel
+m.jd.com###imk2FixedSide
+m.jd.com##.imk2b_wraper_new
+npcitem.jd.hk##div.prom-item > [href^="https://u.gwdang.com/union/go/"]
+jd.com##.ks-item-qrcode-div.ks-sp-hp-qrcode.ks-ui
+so.m.jd.com##.halo-pcprompt-mask
+pro.m.jd.com##.App_root__2CSG3
+item.m.jd.com###content
+item.jd.com##.css-qnu6hi.ant-qrcode
+item.jd.com###ks-qr-code-root
+item.jd.com##.sh-brand-wrap-630128.fn-clear
+item.jd.com###crumb-wrap > div > div.contact.fr.clearfix.shieldShopInfo > div.J-hove-wrap.EDropdown.fr > div.contact-layer > div
+item.jd.com##.jdm-tbar-tab-contact.jdm-toolbar-tab.J-trigger
+item.jd.com##.jdm-tbar-tab-jdvip.jdm-toolbar-tab.J-trigger
+item.jd.com###ttbar-apps
+item.jd.com##.fore9
+item.jd.com##li.spacer
+item.jd.com##.jdm-tbar-tab-feedback.jdm-toolbar-tab.J-trigger
+item.jd.com##.tab-text
+h5static.m.jd.com##.App_root__2CSG3
+item.jd.com##.jdm-toolbar-footer
+search.jd.com###gwd-filter
+npcitem.jd.hk##.jdm-toolbar-footer
+npcitem.jd.hk###ks-qr-code-root
+npcitem.jd.hk###crumb-wrap > div > div.contact.fr.clearfix > div.J-hove-wrap.EDropdown.fr > div.contact-layer > div 
+npcitem.jd.hk##.jdm-tbar-tab-contact.jdm-toolbar-tab.J-trigger
+npcitem.jd.hk##.jdm-tbar-tab-jdvip.jdm-toolbar-tab.J-trigger
+item.m.jd.com###imk2TipsWraper
+home.jd.hk##.dorpdown.fore7
+home.jd.hk##.fr > .fore3
+home.jd.hk##.fore8
+home.jd.hk##li.spacer:nth-of-type(7)
+home.jd.hk##li.spacer:nth-of-type(9)
+home.jd.hk##li.spacer:nth-of-type(5)
+home.jd.hk##.link-logout
+coupon.m.jd.com##.halo-pcprompt-mask
+pro.m.jd.com###imk2TipsWraper
+pro.m.jd.com##.style_darkMoon-width__2CuQZ.style_seckill-feeds-container__QWVHw.scroll-wrapper
+order.jd.com##.dd > ul > li
+search.jd.com##.elevator_recommend.elevator-2024.elevator
+item.m.jd.com##.J_ping.mhistory-layer__btn
+details.jd.com##.ui-slidebar
+h5static.m.jd.com##.bottom-tip-on-pc
+
+! 2023-08-06 https://tieba.baidu.com
+tieba.baidu.com##.tbui_aside_float_bar
+tieba.baidu.com##.celebrity.aside_region
+tieba.baidu.com##.app_download_box.aside_region
+tieba.baidu.com###forum-card-banner
+tieba.baidu.com##.tbui_slideshow_container.plat_recom_carousel
+tieba.baidu.com##.celebrity.region_bright
+tieba.baidu.com##.app_download_box.region_bright
+tieba.baidu.com##.topic_list_box
+jump2.bdimg.com##.tbui_aside_float_bar
+jump2.bdimg.com##.celebrity.aside_region
+jump2.bdimg.com##.app_download_box.aside_region
+jump2.bdimg.com###forum-card-banner
+jump2.bdimg.com##.tbui_slideshow_container.plat_recom_carousel
+jump2.bdimg.com##.celebrity.region_bright
+jump2.bdimg.com##.app_download_box.region_bright
+jump2.bdimg.com##.topic_list_box
+tieba.baidu.com##.u_member
+tieba.baidu.com##.u_official
+wenku.baidu.com##.editor-plugin-wrap
+tieba.baidu.com##.custom-ad-container
+wenku.baidu.com##.is-fixed.new-style.chat-guide-wrap
+www.baidu.com##.new-pmd.xpath-log.c-container.result-op
+tieba.baidu.com##.clearfix.app_download_box
+www.baidu.com###content_right
+www.baidu.com##.toindex
+zhidao.baidu.com##.task-list-button
+zhidao.baidu.com##.jump-top-box
+zhidao.baidu.com###j-nav-menu-container
+www.baidu.com##.c-group-wrapper
+ac-baidu.90dao.com##.ad-container
+tieba.baidu.com###custom-ad-wrap-2
+tieba.baidu.com##.ylh-ad-wrap.custom-ad-wrap
+
+! 2025年7月21日 https://www.smzdm.com
+www.smzdm.com##.interests-statement
+www.smzdm.com##.price-tag-info
+www.smzdm.com##.introduce
+www.smzdm.com##.J_shaiwu.shaiwu-module
+www.smzdm.com##.J_goods.goods-module
+faxian.smzdm.com###footer
+www.smzdm.com##.J_btn_group.btn-group > .go-red-packet
+
+! 2024年10月20日 https://www.manmanbuy.com
+manmanbuy.com##.box2022618
+manmanbuy.com##.app-activity-download
+tool.manmanbuy.com##[src="https://mmb-history.oss-cn-hangzhou.aliyuncs.com/image/pc/pctoolfooter.png"]
+tool.manmanbuy.com##.footer-wrap
+tool.manmanbuy.com##.layui-btn-danger.layui-btn
+tool.manmanbuy.com##.alert
+tool.manmanbuy.com##.com-back
+tool.manmanbuy.com###webindexmenu
+tool.manmanbuy.com##.breadcrumbs
+tool.manmanbuy.com##.head-search-bijia.head-search
+tool.manmanbuy.com##.titleheadRight > div:nth-of-type(4) > div:nth-of-type(1)
+tool.manmanbuy.com##.titlebackdi
+tool.manmanbuy.com##.titleheadRight > div:nth-of-type(1)
+tool.manmanbuy.com##.titleheadRight > div:nth-of-type(2)
+tool.manmanbuy.com##.note
+tool.manmanbuy.com##.trendchart > .hd
+tool.manmanbuy.com##body > div:nth-of-type(3)
+
+! 2024年10月20日 https://www.gwdang.com
+www.gwdang.com##.red-envelope
+www.gwdang.com##.mt-30.titWrap
+www.gwdang.com##.pt-5.mt-30.zoom.search_colum
+www.gwdang.com##.header_new1
+www.gwdang.com##.buy-area
+www.gwdang.com##.toTopwrap
+www.gwdang.com##.font15.white.tc.pos_r.wrapper
+||cdn.gwdang.com/plt_nuxt/public/banner4.9c70fbad.png$image
+
+! 2025年10月6日 https://www.wandoujia.com
+www.wandoujia.com###id_quark_ad_container
+www.wandoujia.com###id_quark_ad_side_container
+www.wandoujia.com##.wanna-report
+www.wandoujia.com###id_quark_ad_container
+www.wandoujia.com###id_quark_ad_side_container
+www.wandoujia.com##.wanna-report
+www.wandoujia.com##.midbanner
+
+! 2025年8月18日 https://news.qq.com
+news.qq.com##.kvADY0Ic95tacYgk5yuI
+! 2026年1月20日 https://v.qq.com
+v.qq.com##.txp_zt_content
+v.qq.com##.creative-player-4-layer > div
+v.qq.com##.plugin_ctrl_txp_shadow
+v.qq.com##.player-comment-btn
+v.qq.com##.txp_btn_pip.txp_btn
+v.qq.com##.txp-btn-playlist--slot.txp_btn
+v.qq.com##.txp_btn_playrate.txp_btn
+v.qq.com##.user-rating.bottom-module
+v.qq.com##a._channel-nav-item_judec_30:nth-of-type(5)
+v.qq.com##a._channel-nav-item_judec_30:nth-of-type(7)
+v.qq.com##.playlist-side__sub
+v.qq.com##.at-feed-stream-post__link
+v.qq.com##.txp-btn-vip--slot
+v.qq.com##a._channel-nav-item_judec_30:nth-of-type(2)
+v.qq.com##.mod_quick > .quick_access.quick_item
+v.qq.com##.mod_quick > .__lite_hide__.quick_client.quick_item
+v.qq.com##.mod_quick > .quick_vip.quick_item
+v.qq.com##.vip-container
+v.qq.com##.tool-wrapper
+v.qq.com###module-related_short_video_main
+v.qq.com###module-pc_detail_collection_list_main
+v.qq.com##.game-module-container
+v.qq.com###module-pc_detail_rec_main
+v.qq.com##.shop-web
+v.qq.com##.client-title
+v.qq.com##.mod_quick > .__lite_hide__.quick_create.quick_item
+v.qq.com###shortcut
+
+! 2025年9月12日 https://live.douyin.com
+live.douyin.com###BottomLayout
+live.douyin.com##slot .YWoVbeaa
+live.douyin.com##.aqK_4_5U
+
+! 2025年5月23日 https://www.huya.com
+www.huya.com##.player-face-list-ctrl.player-face-list
+www.huya.com##.player-gift-right
+
+! 2025年6月14日 https://live.kuaishou.com
+live.kuaishou.com##.foot
+
+! 2025年7月20日 https://www.sohu.com
+www.sohu.com##.phone-scan
+www.sohu.com###articleAllsee
+www.sohu.com###groomRead
+www.sohu.com##.author-subscribe
+www.sohu.com##.groom-read
+
+! 2024年7月11日 https://www.zhihu.com
+www.zhihu.com##.css-2pfapc
+
+! 2025年8月4日 https://www.douban.com
+www.douban.com##.group-board
+
+! 2026年1月21日 https://cn.bing.com
+cn.bing.com##.popup.PopinAnimation.b_bnp_btc
+cn.bing.com##aside
+www4.bing.com##aside
+bing.com###id_mobile
