@@ -63,6 +63,8 @@ account.bilibili.com##li.nav-link-item:nth-of-type(5)
 account.bilibili.com##li.nav-link-item:nth-of-type(3)
 account.bilibili.com##div.item:nth-of-type(7)
 account.bilibili.com##div.item:nth-of-type(2)
+account.bilibili.com##.download-client-trigger.download-entry
+account.bilibili.com##.left-entry > li.v-popover-wrap:nth-of-type(2)
 message.bilibili.com##li.v-popover-wrap:nth-of-type(9)
 search.bilibili.com##li.v-popover-wrap:nth-of-type(9)
 bilibili.com##.right-entry-item--upload.right-entry-item
@@ -87,5 +89,6 @@ www.bilibili.com##.bpx-player-ending-wrap
 www.bilibili.com##.video-toolbar-right
 www.bilibili.com##.video-card-ad-small
 search.bilibili.com##.p_absolute.flex_col_end.side-buttons
+
 
 
