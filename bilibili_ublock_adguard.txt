@@ -91,8 +91,7 @@ www.bilibili.com##.video-card-ad-small
 search.bilibili.com##.p_absolute.flex_col_end.side-buttons
 live.bilibili.com##.gift-left-part.br-entry
 live.bilibili.com##.gift-left-part.game-entry
-live.bilibili.com##.gift-left-part.br-entry
-live.bilibili.com##.gift-left-part.game-entry
 live.bilibili.com##.pointer.live-skin-normal-a-text.icon-ctnr
+live.bilibili.com##.gift-left-part.magic-adventures2
 
 
