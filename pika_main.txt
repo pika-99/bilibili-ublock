@@ -94,6 +94,25 @@ ac-baidu.90dao.com##.ad-container
 tieba.baidu.com###custom-ad-wrap-2
 tieba.baidu.com##.ylh-ad-wrap.custom-ad-wrap
 
+! 2026年1月24日 https://wan.baidu.com
+wan.baidu.com##.all-game-block
+wan.baidu.com##.game.sub-user-nav
+wan.baidu.com##.link.info
+wan.baidu.com##.game-title > div:nth-of-type(1)
+wan.baidu.com##.more-server-btn
+wan.baidu.com##.first-info.info
+wan.baidu.com##.logo
+wan.baidu.com##.ubc-show-mod
+wan.baidu.com###baidu-cp-game-slot
+wan.baidu.com##.task-ruleDesc.disk-task-item
+wan.baidu.com##.task-vip30dTasks.disk-task-item
+wan.baidu.com##.netdisk-buttons
+wan.baidu.com##.nav-main
+wan.baidu.com##.task-vip5mTasks.disk-task-item > .rule-indicate
+wan.baidu.com##div.layout-center
+wan.baidu.com##.notice-in-game-wrapper
+sanjie.50vs.com###loading
+
 ! 2025年7月21日 https://www.smzdm.com
 www.smzdm.com##.interests-statement
 www.smzdm.com##.price-tag-info
