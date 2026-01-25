@@ -225,6 +225,7 @@ bing.com###id_mobile
 ! 2026年1月19日 https://time.is
 time.is###freestar-video-parent-cnx
 time.is###eavgqh
+time.is###recover
 
 ! 2026年1月21日 https://store.epicgames.com
 store.epicgames.com##div.css-2scrzp
