@@ -51,7 +51,6 @@ bilibili.com##li.v-popover-wrap:nth-of-type(6)
 bilibili.com##li.v-popover-wrap:nth-of-type(5) > .default-entry
 bilibili.com##li.v-popover-wrap:nth-of-type(4) > .default-entry
 bilibili.com##li.v-popover-wrap:nth-of-type(7)
-bilibili.com##html > div
 bilibili.com##.vip-wrap
 bilibili.com##.mini-header__title
 www.bilibili.com##.bili-show.bili-guide.bili-guide-all
@@ -93,5 +92,6 @@ live.bilibili.com##.gift-left-part.br-entry
 live.bilibili.com##.gift-left-part.game-entry
 live.bilibili.com##.pointer.live-skin-normal-a-text.icon-ctnr
 live.bilibili.com##.gift-left-part.magic-adventures2
+
 
 
