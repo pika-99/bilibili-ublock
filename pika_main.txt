@@ -221,6 +221,7 @@ cn.bing.com##.popup.PopinAnimation.b_bnp_btc
 cn.bing.com##aside
 www4.bing.com##aside
 bing.com###id_mobile
+www4.bing.com###xMonMSANWrapper
 
 ! 2026年1月19日 https://time.is
 time.is###freestar-video-parent-cnx
