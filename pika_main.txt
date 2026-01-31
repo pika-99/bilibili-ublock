@@ -112,6 +112,7 @@ wan.baidu.com##.task-vip5mTasks.disk-task-item > .rule-indicate
 wan.baidu.com##div.layout-center
 wan.baidu.com##.notice-in-game-wrapper
 sanjie.50vs.com###loading
+wan.baidu.com##.game-active-modal-content-show-image
 
 ! 2025年7月21日 https://www.smzdm.com
 www.smzdm.com##.interests-statement
