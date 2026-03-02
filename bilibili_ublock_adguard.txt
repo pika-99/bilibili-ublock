@@ -92,6 +92,7 @@ live.bilibili.com##.gift-left-part.br-entry
 live.bilibili.com##.gift-left-part.game-entry
 live.bilibili.com##.pointer.live-skin-normal-a-text.icon-ctnr
 live.bilibili.com##.gift-left-part.magic-adventures2
+www.bilibili.com##.bili-danmaku-x-show.bili-danmaku-x-vote
 
 
 
