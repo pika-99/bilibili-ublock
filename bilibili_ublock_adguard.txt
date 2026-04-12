@@ -94,3 +94,5 @@ live.bilibili.com##.pointer.live-skin-normal-a-text.icon-ctnr
 live.bilibili.com##.gift-left-part.magic-adventures2
 www.bilibili.com##.bili-danmaku-x-show.bili-danmaku-x-vote
 www.bilibili.com##.right-bottom-banner.ad-floor-exp.ad-report
+www.bilibili.com##.bili-danmaku-x-show.bili-danmaku-x-guide.bili-danmaku-x-guide-all.bili-danmaku-x-follow-to-electric
+
