@@ -226,6 +226,10 @@ cn.bing.com##aside
 www4.bing.com##aside
 bing.com###id_mobile
 www4.bing.com###xMonMSANWrapper
+rewards.bing.com###achievements
+rewards.bing.com##.text-metadata.bg-bgCardOnSecondaryDefaultRest
+rewards.bing.com##.\32 xl\:gap-12.md\:gap-12.my-4.xl\:scroll-mt-19.gap-6.flex-col.scroll-mt-28.flex
+rewards.bing.com##.\32 xl\:col-span-2.border-strokeCardOnPrimaryRest.border.forced-colors\:border.bg-bgCardOnPrimaryDefaultRest.rounded-cornerCardDefault.overflow-hidden.p-paddingCardDefault.gap-gapBetweenContentSmall.flex-col.size-full.flex
 
 ! 2026年1月19日 https://time.is
 time.is###freestar-video-parent-cnx
