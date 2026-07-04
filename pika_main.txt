@@ -64,6 +64,7 @@ pro.m.jd.com##.FashionFeeds_fashion-feeds-container__3udVR
 jd.com##.jdmcc_elevator
 m.jd.com##.bottom-tip-on-pc
 pro.m.jd.com##.style_seckill-feeds-container__QWVHw.scroll-wrapper
+pro.m.jd.com##.SsrCodeTemplate.module_121618841.bab_opt_mod_1-2-0.module_898217592249332294.bab_opt_mod
 
 ! 2023-08-06 https://tieba.baidu.com
 tieba.baidu.com##.tbui_aside_float_bar
