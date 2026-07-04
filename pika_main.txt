@@ -63,6 +63,7 @@ pro.m.jd.com##.App_outJdApp__3EXPH.App_darkMoon-width__iHI6-.App_app__2ziFi
 pro.m.jd.com##.FashionFeeds_fashion-feeds-container__3udVR
 jd.com##.jdmcc_elevator
 m.jd.com##.bottom-tip-on-pc
+pro.m.jd.com##.style_seckill-feeds-container__QWVHw.scroll-wrapper
 
 ! 2023-08-06 https://tieba.baidu.com
 tieba.baidu.com##.tbui_aside_float_bar
