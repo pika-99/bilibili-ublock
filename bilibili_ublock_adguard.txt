@@ -96,3 +96,15 @@ www.bilibili.com##.bili-danmaku-x-show.bili-danmaku-x-vote
 www.bilibili.com##.right-bottom-banner.ad-floor-exp.ad-report
 www.bilibili.com##.bili-danmaku-x-show.bili-danmaku-x-guide.bili-danmaku-x-guide-all.bili-danmaku-x-follow-to-electric
 www.bilibili.com##li.v-popover-wrap > .v-popover-wrap > .default-entry
+
+! 2026年9月29日 https://www.bilibili.com
+bilibili.com##div.left-entry__item.v-popover-wrap:nth-of-type(8)
+bilibili.com##div.left-entry__item.v-popover-wrap:nth-of-type(7)
+bilibili.com##div.left-entry__item.v-popover-wrap:nth-of-type(6)
+bilibili.com##div.left-entry__item.v-popover-wrap:nth-of-type(5)
+bilibili.com##.game-download-notify-entry-wrap.left-entry__item.v-popover-wrap
+bilibili.com##div.left-entry__item.v-popover-wrap:nth-of-type(2)
+bilibili.com##.home-page-panel-entry.left-entry__item.v-popover-wrap > .left-entry__item-trigger > .trigger-text
+bilibili.com##.right-entry__item.vip-entry
+bilibili.com##div.right-entry__item:nth-of-type(7)
+bilibili.com##.upload-entry__trigger
