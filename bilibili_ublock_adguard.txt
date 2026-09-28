@@ -108,4 +108,4 @@ bilibili.com##.home-page-panel-entry.left-entry__item.v-popover-wrap > .left-ent
 bilibili.com##.right-entry__item.vip-entry
 bilibili.com##div.right-entry__item:nth-of-type(7)
 bilibili.com##.upload-entry__trigger
-www.bilibili.com###app
+
