@@ -41,7 +41,7 @@ www.bilibili.com##.bpx-player-ctrl-playbackrate
 t.bilibili.com##.right
 www.bilibili.com##.bpx-player-ctrl-wide.bpx-player-ctrl-btn
 www.bilibili.com##.bpx-player-ctrl-pip.bpx-player-ctrl-btn
-www.bilibili.com##.bili-header__banner
+
 www.bilibili.com##div.action-button
 bilibili.com##div.pointer.f-left.p-relative.h-100.shortcut-item:nth-of-type(3)
 bilibili.com##div.pointer.f-left.p-relative.h-100.shortcut-item:nth-of-type(4)
