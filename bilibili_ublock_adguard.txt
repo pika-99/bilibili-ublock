@@ -109,3 +109,4 @@ bilibili.com##.right-entry__item.vip-entry
 bilibili.com##div.right-entry__item:nth-of-type(7)
 bilibili.com##.upload-entry__trigger
 www.bilibili.com##.bili-header--large.bili-header
+www.bilibili.com##.video-resource-list
