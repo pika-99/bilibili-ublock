@@ -197,6 +197,7 @@ v.qq.com##.shop-web
 v.qq.com##.client-title
 v.qq.com##.mod_quick > .__lite_hide__.quick_create.quick_item
 v.qq.com###shortcut
+v.qq.com##.adv_report.adv-button
 
 ! 2025年9月12日 https://live.douyin.com
 live.douyin.com###BottomLayout
