@@ -13,6 +13,7 @@ live.bilibili.com##.bili-footer
 live.bilibili.com##div.left-entry__item.v-popover-wrap:nth-of-type(8) > .left-entry__item-trigger
 live.bilibili.com##div.left-entry__item.v-popover-wrap:nth-of-type(6) > .left-entry__item-trigger
 live.bilibili.com##.game-entry-popover-wrap.v-popover-wrap > .left-entry__item-trigger
+live.bilibili.com##.gift-left-part.ecommerce-entry
 
 live.bilibili.com##.item-icon-electronDownload.item-icon
 live.bilibili.com##a.nav-title:nth-of-type(4)
