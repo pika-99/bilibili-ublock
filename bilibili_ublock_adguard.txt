@@ -13,6 +13,10 @@ live.bilibili.com##.bili-footer
 live.bilibili.com##div.left-entry__item.v-popover-wrap:nth-of-type(8) > .left-entry__item-trigger
 live.bilibili.com##div.left-entry__item.v-popover-wrap:nth-of-type(6) > .left-entry__item-trigger
 live.bilibili.com##.game-entry-popover-wrap.v-popover-wrap > .left-entry__item-trigger
+
+live.bilibili.com##.item-icon-electronDownload.item-icon
+live.bilibili.com##a.nav-title:nth-of-type(4)
+live.bilibili.com##a.nav-title:nth-of-type(6)
 www.bilibili.com##.bili-header__channel
 www.bilibili.com##.reply-notice
 www.bilibili.com##.download-client-trigger.download-entry
