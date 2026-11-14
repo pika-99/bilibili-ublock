@@ -4,7 +4,6 @@
 ! Version: 202601210000
 
 ! 2026年10月30日 https://live.bilibili.com
-live.bilibili.com##._layoutContainerRoot_13d6p_2
 live.bilibili.com##.gift-presets-wrap.dp-i-block
 live.bilibili.com##.img-wrap
 live.bilibili.com##.magic-adventures-text
